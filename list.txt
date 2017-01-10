@@ -50,3 +50,8 @@ https://github.com/gbrindisi/xsssniper
 https://github.com/jhaddix/pentest-bookmarks
 https://github.com/ripienaar/free-for-dev
 https://github.com/Neohapsis/bbqsql
+https://github.com/anttiviljami/browser-autofill-phishing
+https://github.com/sensepost/kwetza
+https://github.com/rickey-g/fancybear
+https://github.com/ReclaimYourPrivacy/eschalot
+https://github.com/graniet/Inspector

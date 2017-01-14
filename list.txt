@@ -55,3 +55,5 @@ https://github.com/sensepost/kwetza
 https://github.com/rickey-g/fancybear
 https://github.com/ReclaimYourPrivacy/eschalot
 https://github.com/graniet/Inspector
+https://github.com/dana-at-cp/backdoor-apk
+https://github.com/mehulj94/Radium-Keylogger

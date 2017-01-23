@@ -66,3 +66,6 @@ https://github.com/oyzzo/MemTypeTool
 https://github.com/fatihsirin/Cryptolocker-1.0.0
 https://github.com/TeijevanSloten/CryptoLocker
 https://github.com/tylerph3/awesome-reversing
+https://github.com/AlessandroZ/LaZagne.git
+https://github.com/monostable/awesome-electronics
+https://github.com/mandatoryprogrammer/JudasDNS

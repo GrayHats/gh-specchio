@@ -69,3 +69,5 @@ https://github.com/tylerph3/awesome-reversing
 https://github.com/AlessandroZ/LaZagne.git
 https://github.com/monostable/awesome-electronics
 https://github.com/mandatoryprogrammer/JudasDNS
+https://github.com/LevPasha/instabot.py
+https://github.com/LeonardoNve/dns2proxy

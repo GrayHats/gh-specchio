@@ -71,3 +71,7 @@ https://github.com/monostable/awesome-electronics
 https://github.com/mandatoryprogrammer/JudasDNS
 https://github.com/LevPasha/instabot.py
 https://github.com/LeonardoNve/dns2proxy
+https://github.com/LeonardoNve/crimike_scripts
+https://github.com/blackout314/Javascript-Keylogger.git
+https://github.com/Veil-Framework/Veil
+https://github.com/DanMcInerney/wifijammer

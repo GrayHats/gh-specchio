@@ -145,3 +145,4 @@ https://github.com/digininja/RSMangler
 https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator
 https://github.com/guelfoweb/knock
 https://github.com/maliceio/malice
+https://github.com/api0cradle/UltimateAppLockerByPassList

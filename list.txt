@@ -148,3 +148,4 @@ https://github.com/maliceio/malice
 https://github.com/api0cradle/UltimateAppLockerByPassList
 https://github.com/ron190/jsql-injection
 https://github.com/RetireJS/retire.js.git
+https://github.com/TryCatchHCF/Cloakify

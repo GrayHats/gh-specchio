@@ -151,3 +151,5 @@ https://github.com/RetireJS/retire.js.git
 https://github.com/TryCatchHCF/Cloakify
 https://github.com/r00t-3xp10it/backdoorppt.git
 https://github.com/0xSobky/HackVault.git
+https://github.com/fbctf/shodanwave
+https://github.com/almandin/fuxploider

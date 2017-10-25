@@ -153,3 +153,5 @@ https://github.com/r00t-3xp10it/backdoorppt.git
 https://github.com/0xSobky/HackVault.git
 https://github.com/fbctf/shodanwave
 https://github.com/almandin/fuxploider
+https://github.com/ring0lab/Weaponry.git
+https://github.com/toolswatch/blackhat-arsenal-tools

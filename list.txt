@@ -155,3 +155,5 @@ https://github.com/fbctf/shodanwave
 https://github.com/almandin/fuxploider
 https://github.com/ring0lab/Weaponry.git
 https://github.com/toolswatch/blackhat-arsenal-tools
+https://github.com/LandGrey/pydictor
+https://github.com/Souhardya/Zerodoor

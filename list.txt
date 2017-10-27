@@ -157,3 +157,4 @@ https://github.com/ring0lab/Weaponry.git
 https://github.com/toolswatch/blackhat-arsenal-tools
 https://github.com/LandGrey/pydictor
 https://github.com/Souhardya/Zerodoor
+https://github.com/0xdea/tactical-exploitation.git

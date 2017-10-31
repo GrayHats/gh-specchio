@@ -5,3 +5,4 @@
 * https://github.com/ring0lab/ARPER _arp poisoning_
 * https://github.com/Souhardya/Zerodoor _zerodoor script create_
 * https://github.com/0xdea/tactical-exploitation.git _tactical exploitation_
+* https://github.com/xtr4nge/FruityWifi _wifi tool_

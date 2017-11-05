@@ -6,3 +6,4 @@
 * https://github.com/Souhardya/Zerodoor _zerodoor script create_
 * https://github.com/0xdea/tactical-exploitation.git _tactical exploitation_
 * https://github.com/xtr4nge/FruityWifi _wifi tool_
+* https://github.com/werkamsus/Lilith _c++ rat_

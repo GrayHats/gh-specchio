@@ -81,7 +81,7 @@ https://github.com/IMcPwn/browser-backdoor.git
 https://github.com/nathanlopez/Stitch
 https://github.com/dancezarp/TBDEx
 https://github.com/rajeshmajumdar/BruteXSS
-
+https://github.com/Mebus/cupp
 https://github.com/rajeshmajumdar/webdigger.git
 https://github.com/XiphosResearch/phuzz.git
 https://github.com/r00t-3xp10it/venom

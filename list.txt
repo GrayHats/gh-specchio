@@ -100,7 +100,6 @@ https://github.com/1N3/Sn1per
 https://github.com/jtesta/ssh-mitm
 https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL
 https://github.com/Screetsec/Microsploit
-https://telegram.me/grayhats
 https://github.com/eviltik/evilscan
 https://github.com/yownas/firefly
 https://github.com/vulnersCom/getsploit
@@ -119,13 +118,12 @@ https://github.com/mdsecactivebreach/LinkedInt
 https://github.com/x0rz/tweets_analyzer
 https://github.com/mitmproxy/mitmproxy
 https://github.com/zerosum0x0/koadic
-https://telegram.me/grayhats
 https://github.com/UltimateHackers/XSStrike
 https://github.com/ccorcos/hack.git
 https://github.com/n4xh4ck5/RastLeak
 https://github.com/n4xh4ck5/D0rkGo0
 https://github.com/n1nj4sec/pupy
-
+https://github.com/ustayready/CredSniper
 https://github.com/deibit/cansina
 https://github.com/maldevel/canisrufus
 https://github.com/0x09AL/raven

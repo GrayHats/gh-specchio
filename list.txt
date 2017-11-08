@@ -158,3 +158,4 @@ https://github.com/Souhardya/Zerodoor
 https://github.com/0xdea/tactical-exploitation.git
 https://github.com/xtr4nge/FruityWifi
 https://github.com/sevagas/macro_pack
+https://github.com/boxug/trape.git

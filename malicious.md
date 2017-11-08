@@ -5,3 +5,4 @@
 * https://github.com/api0cradle/UltimateAppLockerByPassList _bypass applocker_
 * https://github.com/TryCatchHCF/Cloakify _data exfiltration_
 * https://github.com/r00t-3xp10it/backdoorppt.git _exe to ppt_
+* https://github.com/boxug/trape.git _trape tracking learn_

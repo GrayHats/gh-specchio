@@ -159,3 +159,6 @@ https://github.com/0xdea/tactical-exploitation.git
 https://github.com/xtr4nge/FruityWifi
 https://github.com/sevagas/macro_pack
 https://github.com/boxug/trape.git
+https://github.com/n4xh4ck5/wh01p.git
+https://github.com/Ethical-H4CK3R/FleX.git
+https://github.com/D4Vinci/Cr3dOv3r.git

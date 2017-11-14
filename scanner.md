@@ -5,3 +5,4 @@
 * https://github.com/RetireJS/retire.js.git _scanner of js_
 * https://github.com/fbctf/shodanwave _shodan wave search on shodan_
 * https://github.com/almandin/fuxploider _scanner_
+* https://github.com/D4Vinci/Cr3dOv3r.git _pwd reuse_

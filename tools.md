@@ -8,3 +8,5 @@
 * https://github.com/xtr4nge/FruityWifi _wifi tool_
 * https://github.com/werkamsus/Lilith _c++ rat_
 * https://github.com/Mebus/cupp _combination of user/other for create probably password_
+* https://github.com/ikkebr/PyBozoCrack.git _crack password with google_
+* https://github.com/jmmcatee/cracklord.git _crack password as a service_

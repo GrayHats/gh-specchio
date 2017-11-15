@@ -7,3 +7,4 @@
 * https://github.com/r00t-3xp10it/backdoorppt.git _exe to ppt_
 * https://github.com/boxug/trape.git _trape tracking learn_
 * https://github.com/Ethical-H4CK3R/FleX.git _c&c py_
+* https://github.com/gen0cide/gscript _genocide malware creation_

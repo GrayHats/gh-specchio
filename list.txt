@@ -162,3 +162,6 @@ https://github.com/boxug/trape.git
 https://github.com/n4xh4ck5/wh01p.git
 https://github.com/Ethical-H4CK3R/FleX.git
 https://github.com/D4Vinci/Cr3dOv3r.git
+https://github.com/ikkebr/PyBozoCrack.git
+https://github.com/gen0cide/gscript
+https://github.com/jmmcatee/cracklord.git

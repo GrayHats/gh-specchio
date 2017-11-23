@@ -166,3 +166,4 @@ https://github.com/ikkebr/PyBozoCrack.git
 https://github.com/gen0cide/gscript
 https://github.com/jmmcatee/cracklord.git
 https://github.com/evilsocket/sg1.git
+https://github.com/UnkL4b/GitMiner.git

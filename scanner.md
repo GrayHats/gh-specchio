@@ -6,3 +6,4 @@
 * https://github.com/fbctf/shodanwave _shodan wave search on shodan_
 * https://github.com/almandin/fuxploider _scanner_
 * https://github.com/D4Vinci/Cr3dOv3r.git _pwd reuse_
+* https://github.com/UnkL4b/GitMiner.git _gitminer_

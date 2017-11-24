@@ -8,3 +8,4 @@
 * https://github.com/boxug/trape.git _trape tracking learn_
 * https://github.com/Ethical-H4CK3R/FleX.git _c&c py_
 * https://github.com/gen0cide/gscript _genocide malware creation_
+* https://github.com/tiagorlampert/sAINT _saint spyware creation_

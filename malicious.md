@@ -9,3 +9,4 @@
 * https://github.com/Ethical-H4CK3R/FleX.git _c&c py_
 * https://github.com/gen0cide/gscript _genocide malware creation_
 * https://github.com/tiagorlampert/sAINT _saint spyware creation_
+* https://github.com/trustedsec/trevorc2 _c n c with legitimate web_

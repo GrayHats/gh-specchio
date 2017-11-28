@@ -11,6 +11,6 @@
 * https://github.com/ikkebr/PyBozoCrack.git _crack password with google_
 * https://github.com/jmmcatee/cracklord.git _crack password as a service_
 * https://github.com/evilsocket/sg1.git _exfiltration with dns encrypted_
-
+* https://github.com/eldraco/domain_analyzer _domain analyzer_
 
 * https://github.com/webfp/tor-browser-selenium.git _tor browser selenium_

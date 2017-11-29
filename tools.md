@@ -10,7 +10,9 @@
 * https://github.com/Mebus/cupp _combination of user/other for create probably password_
 * https://github.com/ikkebr/PyBozoCrack.git _crack password with google_
 * https://github.com/jmmcatee/cracklord.git _crack password as a service_
-* https://github.com/evilsocket/sg1.git _exfiltration with dns encrypted_
-* https://github.com/eldraco/domain_analyzer _domain analyzer_
+* https://github.com/KvasirSecurity/Kvasir _Kvasir: Penetration Test Data Management_
 
 * https://github.com/webfp/tor-browser-selenium.git _tor browser selenium_
+
+* https://github.com/evilsocket/sg1.git _exfiltration with dns encrypted_
+* https://github.com/DakotaNelson/sneaky-creeper _extfiltration with socials_

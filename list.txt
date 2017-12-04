@@ -168,3 +168,4 @@ https://github.com/jmmcatee/cracklord.git
 https://github.com/evilsocket/sg1.git
 https://github.com/UnkL4b/GitMiner.git
 https://github.com/trustedsec/trevorc2
+https://github.com/bugcrowd/HUNT.git

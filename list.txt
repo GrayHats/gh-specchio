@@ -169,3 +169,5 @@ https://github.com/evilsocket/sg1.git
 https://github.com/UnkL4b/GitMiner.git
 https://github.com/trustedsec/trevorc2
 https://github.com/bugcrowd/HUNT.git
+https://github.com/famavott/osint-scraper
+https://github.com/LewisArdern/bXSS

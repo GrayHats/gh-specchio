@@ -16,3 +16,6 @@
 
 * https://github.com/evilsocket/sg1.git _exfiltration with dns encrypted_
 * https://github.com/DakotaNelson/sneaky-creeper _extfiltration with socials_
+
+## XSS
+* https://github.com/LewisArdern/bXSS _blind XSS_

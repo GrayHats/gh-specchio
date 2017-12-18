@@ -11,6 +11,7 @@
 * https://github.com/ikkebr/PyBozoCrack.git _crack password with google_
 * https://github.com/jmmcatee/cracklord.git _crack password as a service_
 * https://github.com/KvasirSecurity/Kvasir _Kvasir: Penetration Test Data Management_
+* https://github.com/hlldz/wildPwn _deploy wildFly.WAR_
 
 * https://github.com/webfp/tor-browser-selenium.git _tor browser selenium_
 

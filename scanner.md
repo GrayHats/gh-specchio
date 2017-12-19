@@ -9,6 +9,7 @@
 * https://github.com/UnkL4b/GitMiner.git _gitminer_
 * https://github.com/eldraco/domain_analyzer _domain analyzer_
 * https://github.com/r00t-3xp10it/morpheus _ettercap gui_
+* https://github.com/sa7mon/S3Scanner.git _s3 scanner_
 
 ## burp
 * https://github.com/bugcrowd/HUNT.git

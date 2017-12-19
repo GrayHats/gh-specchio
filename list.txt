@@ -171,3 +171,4 @@ https://github.com/trustedsec/trevorc2
 https://github.com/bugcrowd/HUNT.git
 https://github.com/famavott/osint-scraper
 https://github.com/LewisArdern/bXSS
+https://github.com/sa7mon/S3Scanner.git

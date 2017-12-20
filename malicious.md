@@ -10,3 +10,4 @@
 * https://github.com/gen0cide/gscript _genocide malware creation_
 * https://github.com/tiagorlampert/sAINT _saint spyware creation_
 * https://github.com/trustedsec/trevorc2 _c n c with legitimate web_
+* https://github.com/Ne0nd0g/merlin.git _c n c http2_

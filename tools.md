@@ -20,3 +20,6 @@
 
 ## XSS
 * https://github.com/LewisArdern/bXSS _blind XSS_
+
+## ANON
+* https://github.com/cryptolok/GhostInTheNet _stealth mode_

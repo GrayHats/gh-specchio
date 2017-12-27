@@ -7,9 +7,6 @@
 * https://github.com/0xdea/tactical-exploitation.git _tactical exploitation_
 * https://github.com/xtr4nge/FruityWifi _wifi tool_
 * https://github.com/werkamsus/Lilith _c++ rat_
-* https://github.com/Mebus/cupp _combination of user/other for create probably password_
-* https://github.com/ikkebr/PyBozoCrack.git _crack password with google_
-* https://github.com/jmmcatee/cracklord.git _crack password as a service_
 * https://github.com/KvasirSecurity/Kvasir _Kvasir: Penetration Test Data Management_
 * https://github.com/hlldz/wildPwn _deploy wildFly.WAR_
 
@@ -23,3 +20,9 @@
 
 ## ANON
 * https://github.com/cryptolok/GhostInTheNet _stealth mode_
+
+## password
+* https://github.com/Mebus/cupp _combination of user/other for create probably password_
+* https://github.com/ikkebr/PyBozoCrack.git _crack password with google_
+* https://github.com/jmmcatee/cracklord.git _crack password as a service_
+* https://github.com/m4ll0k/Drup _default pwd of router_

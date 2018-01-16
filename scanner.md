@@ -11,6 +11,7 @@
 * https://github.com/r00t-3xp10it/morpheus _ettercap gui_
 * https://github.com/sa7mon/S3Scanner.git _s3 scanner_
 * https://github.com/laramies/theHarvester _OSINT_
+* https://github.com/1N3/BlackWidow.git _OSINT_
 
 ## burp
 * https://github.com/bugcrowd/HUNT.git

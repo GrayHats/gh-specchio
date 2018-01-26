@@ -18,3 +18,6 @@
 
 ## intelligence
 * https://github.com/famavott/osint-scraper _osint guy scanner_
+
+## xshell
+* https://github.com/Manisso/Xshell _scanner of xshell_

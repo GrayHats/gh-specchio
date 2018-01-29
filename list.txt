@@ -180,3 +180,8 @@ https://github.com/m4ll0k/Drup
 https://github.com/D4Vinci/One-Lin3r
 https://github.com/laramies/theHarvester
 https://github.com/1N3/BlackWidow.git
+https://github.com/nethunteros/punter.git
+https://github.com/Manisso/Xshell
+https://github.com/Manisso/fsociety
+https://github.com/securifera/MaltegoNessusParser.git
+https://github.com/twelvesec/gasmask

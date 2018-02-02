@@ -185,3 +185,4 @@ https://github.com/Manisso/Xshell
 https://github.com/Manisso/fsociety
 https://github.com/securifera/MaltegoNessusParser.git
 https://github.com/twelvesec/gasmask
+https://github.com/UndeadSec/SocialFish.git

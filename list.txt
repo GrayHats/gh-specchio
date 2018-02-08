@@ -186,3 +186,5 @@ https://github.com/Manisso/fsociety
 https://github.com/securifera/MaltegoNessusParser.git
 https://github.com/twelvesec/gasmask
 https://github.com/UndeadSec/SocialFish.git
+https://github.com/trustedsec/hate_crack.git
+https://github.com/newsapps/beeswithmachineguns

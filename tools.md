@@ -13,6 +13,7 @@
 * https://github.com/evilsocket/sg1.git _exfiltration with dns encrypted_
 * https://github.com/DakotaNelson/sneaky-creeper _extfiltration with socials_
 * https://github.com/D4Vinci/One-Lin3r
+* https://github.com/nccgroup/redsnarf _RedSnarf is a pen-testing / red-teaming tool for Windows environments_
 
 ## XSS
 * https://github.com/LewisArdern/bXSS _blind XSS_

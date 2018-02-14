@@ -189,3 +189,4 @@ https://github.com/UndeadSec/SocialFish.git
 https://github.com/trustedsec/hate_crack.git
 https://github.com/newsapps/beeswithmachineguns
 https://github.com/nccgroup/redsnarf
+https://github.com/austin-taylor/VulnWhisperer

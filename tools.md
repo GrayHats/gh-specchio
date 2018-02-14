@@ -26,3 +26,6 @@
 * https://github.com/ikkebr/PyBozoCrack.git _crack password with google_
 * https://github.com/jmmcatee/cracklord.git _crack password as a service_
 * https://github.com/m4ll0k/Drup _default pwd of router_
+
+## reports
+* https://github.com/austin-taylor/VulnWhisperer _reports aggregator_

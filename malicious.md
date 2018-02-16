@@ -13,3 +13,4 @@
 * https://github.com/Ne0nd0g/merlin.git _c n c http2_
 * https://github.com/r00t-3xp10it/trojanizer _trojanize_
 * https://github.com/UndeadSec/SocialFish.git _social fish ngrok ready_
+* https://github.com/mthbernardes/sshLooter _loot ssh creds from telegram_

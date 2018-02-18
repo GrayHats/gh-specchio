@@ -190,3 +190,4 @@ https://github.com/trustedsec/hate_crack.git
 https://github.com/newsapps/beeswithmachineguns
 https://github.com/nccgroup/redsnarf
 https://github.com/austin-taylor/VulnWhisperer
+https://github.com/Mr-Un1k0d3r/UniByAv

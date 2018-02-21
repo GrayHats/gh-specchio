@@ -192,3 +192,7 @@ https://github.com/nccgroup/redsnarf
 https://github.com/austin-taylor/VulnWhisperer
 https://github.com/Mr-Un1k0d3r/UniByAv
 https://github.com/JohnTroony/php-webshells
+https://github.com/0x27/sebd-0.2
+https://github.com/Ice3man543/SubOver
+https://github.com/samdenty99/injectify
+https://github.com/zricethezav/gitleaks

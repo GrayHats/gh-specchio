@@ -13,9 +13,13 @@
 * https://github.com/laramies/theHarvester _OSINT_
 * https://github.com/1N3/BlackWidow.git _OSINT_
 * https://github.com/twelvesec/gasmask _scan more drivers_
+* https://github.com/Ice3man543/SubOver _subdomain_
+* https://github.com/zricethezav/gitleaks _gitleaks_
 
 ## burp
 * https://github.com/bugcrowd/HUNT.git
+* https://github.com/markclayton/bumpster
+* https://github.com/1N3/IntruderPayloads
 
 ## intelligence
 * https://github.com/famavott/osint-scraper _osint guy scanner_

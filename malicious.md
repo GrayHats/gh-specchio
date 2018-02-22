@@ -15,3 +15,7 @@
 * https://github.com/UndeadSec/SocialFish.git _social fish ngrok ready_
 * https://github.com/mthbernardes/sshLooter _loot ssh creds from telegram_
 * https://github.com/Mr-Un1k0d3r/UniByAv _evasion unibyav_
+
+
+## twitter
+* https://github.com/omergunal/PoT _twitter phishing_

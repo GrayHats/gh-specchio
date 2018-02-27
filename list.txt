@@ -197,3 +197,5 @@ https://github.com/Ice3man543/SubOver
 https://github.com/samdenty99/injectify
 https://github.com/zricethezav/gitleaks
 https://github.com/omergunal/PoT
+https://github.com/omergunal/hackerbot
+https://github.com/merrychap/shellen

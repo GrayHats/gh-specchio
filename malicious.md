@@ -16,6 +16,8 @@
 * https://github.com/mthbernardes/sshLooter _loot ssh creds from telegram_
 * https://github.com/Mr-Un1k0d3r/UniByAv _evasion unibyav_
 
+## msf 
+* https://github.com/kkar/MSF-Undetector
 
 ## shellcode
 * https://github.com/merrychap/shellen _create shellcode for all os_

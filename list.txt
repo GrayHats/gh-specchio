@@ -199,3 +199,4 @@ https://github.com/zricethezav/gitleaks
 https://github.com/omergunal/PoT
 https://github.com/omergunal/hackerbot
 https://github.com/merrychap/shellen
+https://github.com/lunarca/SimpleEmailSpoofer

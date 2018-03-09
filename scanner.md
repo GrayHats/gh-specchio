@@ -26,3 +26,6 @@
 
 ## xshell
 * https://github.com/Manisso/Xshell _scanner of xshell_
+
+## email
+* https://github.com/lunarca/SimpleEmailSpoofer

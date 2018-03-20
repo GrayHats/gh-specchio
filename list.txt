@@ -200,3 +200,5 @@ https://github.com/omergunal/PoT
 https://github.com/omergunal/hackerbot
 https://github.com/merrychap/shellen
 https://github.com/lunarca/SimpleEmailSpoofer
+https://github.com/0xdea/tactical-exploitation
+https://github.com/anonymous14386/rockyou.txt-search

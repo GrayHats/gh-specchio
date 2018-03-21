@@ -24,3 +24,6 @@
 
 ## twitter
 * https://github.com/omergunal/PoT _twitter phishing_
+
+## dns
+* https://github.com/Crypt0s/FakeDns.git _fake dns in python_

@@ -21,6 +21,8 @@
 ## ANON
 * https://github.com/cryptolok/GhostInTheNet _stealth mode_
 
+## decode
+* https://github.com/UltimateHackers/Decodify _decode like hell_
 ## password
 * https://github.com/Mebus/cupp _combination of user/other for create probably password_
 * https://github.com/ikkebr/PyBozoCrack.git _crack password with google_

@@ -16,6 +16,9 @@
 * https://github.com/Ice3man543/SubOver _subdomain_
 * https://github.com/zricethezav/gitleaks _gitleaks_
 
+## recon
+* https://github.com/codingo/Reconnoitre
+
 ## burp
 * https://github.com/bugcrowd/HUNT.git
 * https://github.com/markclayton/bumpster

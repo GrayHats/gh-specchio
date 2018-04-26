@@ -208,3 +208,6 @@ https://github.com/b374k/b374k.git
 https://github.com/jtesta/ssh-mitm
 https://github.com/jtesta/ssh-mitm
 https://github.com/codingo/Reconnoitre
+https://github.com/vaguileradiaz/tinfoleak
+https://github.com/vaguileradiaz/tinfoleak
+https://github.com/ryhanson/phishery

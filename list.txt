@@ -211,3 +211,4 @@ https://github.com/codingo/Reconnoitre
 https://github.com/vaguileradiaz/tinfoleak
 https://github.com/vaguileradiaz/tinfoleak
 https://github.com/ryhanson/phishery
+https://github.com/D35m0nd142/LFISuite

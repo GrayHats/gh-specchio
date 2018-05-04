@@ -17,6 +17,7 @@
 * https://github.com/zricethezav/gitleaks _gitleaks_
 
 ## recon
+* https://github.com/flipkart-incubator/Astra _api scanning_
 * https://github.com/codingo/Reconnoitre
 
 ## burp

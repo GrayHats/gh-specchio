@@ -212,3 +212,4 @@ https://github.com/vaguileradiaz/tinfoleak
 https://github.com/vaguileradiaz/tinfoleak
 https://github.com/ryhanson/phishery
 https://github.com/D35m0nd142/LFISuite
+https://github.com/0x00-0x00/ShellPop

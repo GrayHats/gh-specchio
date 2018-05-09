@@ -2,6 +2,7 @@
 * https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator
 * https://github.com/sevagas/macro_pack _another macro pack_
 * https://github.com/ryhanson/phishery _micromerd word_ 
+* https://github.com/deepzec/Bad-Pdf _micromerd pdf expose ntlm hash_
 
 * https://github.com/maliceio/malice _virus total clone_
 * https://github.com/api0cradle/UltimateAppLockerByPassList _bypass applocker_

@@ -24,6 +24,7 @@
 * https://github.com/bugcrowd/HUNT.git
 * https://github.com/markclayton/bumpster
 * https://github.com/1N3/IntruderPayloads
+* https://github.com/bayotop/sink-logger _log js sink_
 
 ## intelligence
 * https://github.com/famavott/osint-scraper _osint guy scanner_

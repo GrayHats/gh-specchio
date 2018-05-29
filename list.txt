@@ -216,3 +216,5 @@ https://github.com/0x00-0x00/ShellPop
 https://github.com/deepzec/Bad-Pdf
 https://github.com/bayotop/sink-logger
 https://github.com/Warflop/FireShodanMap
+https://github.com/jpdias/botnet-lab
+https://github.com/Hackplayers/4nonimizer

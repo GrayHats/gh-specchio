@@ -35,3 +35,7 @@
 * https://github.com/jshaw87/Cheatsheets _cheatsheep for pt_
 * https://github.com/archerysec/archerysec _open source vuln assessment and managment_
 * https://github.com/MooseDojo/apt2 _automated penetration testing toolkit_
+
+## router
+* https://github.com/threat9/routersploit
+* https://github.com/reverse-shell/routersploit

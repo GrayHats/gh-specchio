@@ -219,3 +219,5 @@ https://github.com/Warflop/FireShodanMap
 https://github.com/jpdias/botnet-lab
 https://github.com/Hackplayers/4nonimizer
 https://github.com/UltimateHackers/nano
+https://github.com/threat9/routersploit
+https://github.com/threat9/routersploit

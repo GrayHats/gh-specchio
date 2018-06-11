@@ -222,3 +222,4 @@ https://github.com/UltimateHackers/nano
 https://github.com/threat9/routersploit
 https://github.com/threat9/routersploit
 https://github.com/RenwaX23/XSS-Payloads
+https://github.com/Audi-1/sqli-labs

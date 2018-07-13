@@ -1,4 +1,5 @@
 # tools
+
 * https://github.com/lukechilds/reverse-shell _reverse shell as a service_
 * https://github.com/toolswatch/blackhat-arsenal-tools
 * https://github.com/ring0lab/Weaponry.git
@@ -15,14 +16,12 @@
 * https://github.com/D4Vinci/One-Lin3r
 * https://github.com/nccgroup/redsnarf _RedSnarf is a pen-testing / red-teaming tool for Windows environments_
 
-## XSS
-* https://github.com/LewisArdern/bXSS _blind XSS_
-
 ## ANON
 * https://github.com/cryptolok/GhostInTheNet _stealth mode_
 
 ## decode
 * https://github.com/UltimateHackers/Decodify _decode like hell_
+
 ## password
 * https://github.com/Mebus/cupp _combination of user/other for create probably password_
 * https://github.com/ikkebr/PyBozoCrack.git _crack password with google_

@@ -16,6 +16,9 @@
 * https://github.com/Ice3man543/SubOver _subdomain_
 * https://github.com/zricethezav/gitleaks _gitleaks_
 
+## nmap ##
+* https://github.com/scipag/vulscan _script for nmap: vulnscan_
+
 ## shodn
 * https://github.com/Warflop/FireShodanMap _map from shodan with firebase_
 * https://github.com/bit4woo/teemo _domains scanner_

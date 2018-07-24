@@ -21,6 +21,7 @@
 * https://github.com/bit4woo/teemo _domains scanner_
 
 ## recon
+* https://github.com/s0md3v/Photon _scraper of useful information_
 * https://github.com/flipkart-incubator/Astra _api scanning_
 * https://github.com/codingo/Reconnoitre
 

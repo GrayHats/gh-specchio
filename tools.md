@@ -6,15 +6,13 @@
 * https://github.com/ring0lab/ARPER _arp poisoning_
 * https://github.com/Souhardya/Zerodoor _zerodoor script create_
 * https://github.com/0xdea/tactical-exploitation.git _tactical exploitation_
-* https://github.com/xtr4nge/FruityWifi _wifi tool_
 * https://github.com/werkamsus/Lilith _c++ rat_
-* https://github.com/KvasirSecurity/Kvasir _Kvasir: Penetration Test Data Management_
 * https://github.com/hlldz/wildPwn _deploy wildFly.WAR_
 * https://github.com/webfp/tor-browser-selenium.git _tor browser selenium_
 * https://github.com/evilsocket/sg1.git _exfiltration with dns encrypted_
 * https://github.com/DakotaNelson/sneaky-creeper _extfiltration with socials_
 * https://github.com/D4Vinci/One-Lin3r
-* https://github.com/nccgroup/redsnarf _RedSnarf is a pen-testing / red-teaming tool for Windows environments_
+* https://github.com/doyler/SecurityTools _various tools_
 
 ## ANON
 * https://github.com/cryptolok/GhostInTheNet _stealth mode_
@@ -38,3 +36,6 @@
 ## router
 * https://github.com/threat9/routersploit
 * https://github.com/reverse-shell/routersploit
+
+## wifi ##
+* https://github.com/doyler/SecurityTools

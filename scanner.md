@@ -16,6 +16,9 @@
 * https://github.com/Ice3man543/SubOver _subdomain_
 * https://github.com/zricethezav/gitleaks _gitleaks_
 
+## geolocation ##
+* https://github.com/thewhiteh4t/seeker
+
 ## nmap ##
 * https://github.com/scipag/vulscan _script for nmap: vulnscan_
 

@@ -230,3 +230,6 @@ https://github.com/bit4woo/teemo
 https://github.com/mubix/post-exploitation
 https://github.com/jivoi/pentest
 https://github.com/si9int/cc.py
+
+https://github.com/evyatarmeged/Raccoon
+https://github.com/kgretzky/evilginx2

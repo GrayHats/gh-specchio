@@ -16,6 +16,9 @@
 * https://github.com/Ice3man543/SubOver _subdomain_
 * https://github.com/zricethezav/gitleaks _gitleaks_
 
+## git ##
+* https://github.com/UKHomeOffice/repo-security-scanner _git repo sec scanner_
+
 ## geolocation ##
 * https://github.com/thewhiteh4t/seeker
 

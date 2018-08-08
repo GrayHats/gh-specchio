@@ -21,6 +21,7 @@
 
 ## msf 
 * https://github.com/kkar/MSF-Undetector
+* https://github.com/NullArray/AutoSploit _mass auto sploit_
 
 ## shellcode
 * https://github.com/merrychap/shellen _create shellcode for all os_

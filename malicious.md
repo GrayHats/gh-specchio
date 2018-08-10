@@ -31,6 +31,7 @@
 
 ## dns
 * https://github.com/Crypt0s/FakeDns.git _fake dns in python_
+* https://github.com/m4ll0k/takeover _subdomain takeover_
 
 ## mtim
 * https://github.com/jtesta/ssh-mitm

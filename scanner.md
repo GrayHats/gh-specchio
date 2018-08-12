@@ -54,3 +54,4 @@
 
 ## web ##
 * https://github.com/m4ll0k/Galileo
+* https://github.com/maurosoria/dirsearch _dirsearch_

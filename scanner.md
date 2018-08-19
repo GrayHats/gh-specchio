@@ -55,3 +55,6 @@
 ## web ##
 * https://github.com/m4ll0k/Galileo
 * https://github.com/maurosoria/dirsearch _dirsearch_
+
+## stego ##
+* https://github.com/zed-0xff/zsteg _detect stego_

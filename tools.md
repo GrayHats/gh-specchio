@@ -39,3 +39,6 @@
 
 ## wifi ##
 * https://github.com/doyler/SecurityTools
+
+## crack ##
+* https://github.com/Sjord/jwtcrack

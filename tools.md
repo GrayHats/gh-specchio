@@ -42,3 +42,6 @@
 
 ## crack ##
 * https://github.com/Sjord/jwtcrack
+
+## ducky ##
+* https://github.com/itsmehacker/Ducky-Exploit

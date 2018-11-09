@@ -15,6 +15,7 @@
 * https://github.com/twelvesec/gasmask _scan more drivers_
 * https://github.com/Ice3man543/SubOver _subdomain_
 * https://github.com/zricethezav/gitleaks _gitleaks_
+* https://github.com/guelfoweb/peframe _portable scanner_
 
 ## git ##
 * https://github.com/UKHomeOffice/repo-security-scanner _git repo sec scanner_
@@ -59,3 +60,6 @@
 
 ## stego ##
 * https://github.com/zed-0xff/zsteg _detect stego_
+
+## XSS ##
+* https://github.com/luigigubello/XSSSonar

@@ -39,6 +39,7 @@
 
 ## wifi ##
 * https://github.com/doyler/SecurityTools
+* https://github.com/samdenty/Wi-PWN
 
 ## crack ##
 * https://github.com/Sjord/jwtcrack

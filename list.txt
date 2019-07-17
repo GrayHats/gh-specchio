@@ -233,3 +233,4 @@ https://github.com/si9int/cc.py
 
 https://github.com/evyatarmeged/Raccoon
 https://github.com/kgretzky/evilginx2
+https://github.com/Ekultek/Zeus-Scanner
